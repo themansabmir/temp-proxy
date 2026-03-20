@@ -1,6 +1,7 @@
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 import fs from "fs";
+import path from "node:path";
 
 const TARGETS_FILE = path.resolve("targets.json");
 const ADMIN_SECRET = process.env.ADMIN_SECRET || "changeme";
