@@ -1,0 +1,32 @@
+[
+  {
+    "name": "mohit",
+    "url": "https://projecta.example.com/webhook",
+    "enabled": false
+  },
+  {
+    "name": "mansab",
+    "url": "https://projectb.example.com/webhook",
+    "enabled": false
+  },
+  {
+    "name": "abbas",
+    "url": "https://abc123.ngrok-free.app/webhook",
+    "enabled": false
+  },
+  {
+    "name": "irfan",
+    "url": "https://def456.ngrok-free.app/webhook",
+    "enabled": false
+  },
+  {
+    "name": "eybot",
+    "url": "https://ghi789.ngrok-free.app/webhook",
+    "enabled": true
+  },
+  {
+    "name": "whatsappbot",
+    "url": "https://ghi789.ngrok-free.app/webhook",
+    "enabled": false
+  }
+]
